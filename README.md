@@ -17,7 +17,7 @@ Live Demo:[Tableau Public Demo](https://public.tableau.com/app/profile/jeremiah.
 ![employeesshot](https://user-images.githubusercontent.com/86543368/207450608-bdc2680f-3c9d-49cd-93b4-53322f97fa49.png)
 
 
-##SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data visualizations for answering business related questions for management including,
+## SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data visualizations for answering business related questions for management including,
 
 What is breakdown between the male and female employees working in the company each year, starting from 1990?
 
