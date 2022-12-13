@@ -12,7 +12,7 @@ Utilized a Employee.sql Data set via Github
 
 Tableau Dashboard contains a Dept Name filter and four visual representations answering business related inquiries. 
 
-Live Demo:https://public.tableau.com/app/profile/jeremiah.m3635/viz/Employee_sqlDataAnalysis/Dashboard1?publish=yes
+Live Demo:[Tableau Public Demo](https://public.tableau.com/app/profile/jeremiah.m3635/viz/Employee_sqlDataAnalysis/Dashboard1?publish=yes)
 
 ![employeesshot](https://user-images.githubusercontent.com/86543368/207450608-bdc2680f-3c9d-49cd-93b4-53322f97fa49.png)
 
